@@ -1,0 +1,15 @@
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\bin\Debug\net6.0\Abstraindo um RPG.exe
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\bin\Debug\net6.0\Abstraindo um RPG.deps.json
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\bin\Debug\net6.0\Abstraindo um RPG.runtimeconfig.json
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\bin\Debug\net6.0\Abstraindo um RPG.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\bin\Debug\net6.0\ref\Abstraindo um RPG.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\bin\Debug\net6.0\Abstraindo um RPG.pdb
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.csproj.AssemblyReference.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.AssemblyInfoInputs.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.AssemblyInfo.cs
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.csproj.CoreCompileInputs.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\ref\Abstraindo um RPG.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.pdb
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\Abstraindo um RPG\obj\Debug\net6.0\Abstraindo um RPG.genruntimeconfig.cache

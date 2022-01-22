@@ -1,0 +1,91 @@
+1- Tipos e Variáveis
+
+	Variáveis Tipos de Valor
+	-Variáveis de tipos de valor contêm diretamente seus dados
+	As variáveis têm sua própria cópia dos dados e não é possível que as
+	operações afetem outra variável (exceto no caso das variáveis de parâmetro ref e out)
+
+	Tipos de valor
+		Numéricos: sbyte, short, int, long, byte, ushort, uint, ulong
+		Carcteres Unicode: char
+		Pontos Flutuantes: float, double, decimal
+		booleano: boll
+		Outros(não estão definidos em algum grupo): enum, struct e nullable(int?)
+	
+	Variáveis Tipos de Referência
+	-Variáveis de tipose de referência armazenam referências a seus dados
+	É possível que duas variáveis façam referência ao
+	mesmo objeto e, portanto, que operações em uma
+	variável afetem o objeto referenciado pela outra variável.
+	
+	Tipos de Referência
+		Tipos de Classe: class, object, string
+		Tipos Arrays: int[], int[,], etc..
+		Outros: Interface e Delegate
+
+2- Instruções
+	
+	Ações de um programa são expressas usando instruções. Dentro de um bloco. { instrução }
+		-Exemplos de instruções-
+	Declaração de variáveis e constantes locais
+	instrução condicional: if, else, switch
+	laços de repetição: while, do, for, foreach
+	instruções auxiliares: break, continue, return
+	instruções pra tratativas de exceptions: throw, try, catch, finally
+	instrução para importar classes e bibliotecas: using
+
+3- Arrays
+
+	Um array é uma estrutura de dados que contém um número X de elementos, todos do mesmo tipo,
+	que são acessados através de índices computados.
+	Arrays são tipos de referência e a declaração de uma variável array simplesmente reserva espaço
+	para uma referência de uma instância de array.
+
+	ao criar um array, é especificado o tamanho da nova instância, que é fixo durante todo o tempo de vida
+	da instância. podem ser uni ou multidirecionais
+
+				--Classes e Objetos--
+		Classes são os tipos mais fundamentais de C#
+		uma classe é uma estrutura de dados que combina estado(campos ou propriedades) e ações (métodos)
+
+		Objetos são instâncias de uma classe
+		As classes suportam herança e polimorfismo, mecanismos pelos quais as classes derivadas podem estender
+		e especializar as classes base
+
+instâncias de classes(objetos) são criadas usando o operador new, que aloca memória para uma nova
+instância, chama um construtor para inicializar a instância e retorna uma referência à instância.
+			
+			Membros
+				Os membros de uma classe podem ser estáticos ou membros de uma instância.
+				membros estáticos pertencem a classe e membros de instância pertencem ao objeto.
+				Constantes, variáveis, métodos, propriedades, construtores, etc.. são exemplos de membros
+		public
+		protected
+		internal
+		private
+
+			Herança
+		Uma declaração de classe pode especificar uma classe base, herdando os membros public, internal e
+		protected da classe base. Omitir uma especificação de classe base é o mesmo que derivar do tipo object.
+
+			Métodos
+	Um método é um membro que implementa uma computação ou ação que pode ser executada por um objeto ou classe
+	Os métodos podem ter uma lista de parâmetros, que representam valores ou referências de variáveis passados para
+	o método, e um tipo de retorno, que especifica o tipo do valor calculado e retornado pelo método.
+
+-Structs
+
+	são estruturas de dados que podem conter membros de dados e membros de ação, são tipos de valor e não requerem alocação
+	de memória. Uma variável do tipo struct armazena diretamente os dados da estrutura, enquanto uma variável do tipo de 
+	classe armazena uma referência a um objeto alocado na memória(heap).
+
+-Interfaces
+
+	uma interface define um contrato que pode ser implementado por classes e structs
+	uma interface pode conter métodos, propriedades, eventos e indexadores (Ver injeção de dependência)
+-Enums
+
+	Um enum é um tipo de valor distinto com um conjunto de constantes nomeadas.
+	Você define enumerações quando precisa definir um tipo que pode ter um conjunto de valores discretos.
+	eles usam um dos tipos de valor integral como armazenamento subjacente. Eles fornecem significado semântico
+	aos valores discretos.
