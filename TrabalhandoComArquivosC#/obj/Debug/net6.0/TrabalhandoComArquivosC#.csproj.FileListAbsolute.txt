@@ -1,0 +1,15 @@
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\bin\Debug\net6.0\TrabalhandoComArquivosC#.exe
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\bin\Debug\net6.0\TrabalhandoComArquivosC#.deps.json
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\bin\Debug\net6.0\TrabalhandoComArquivosC#.runtimeconfig.json
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\bin\Debug\net6.0\TrabalhandoComArquivosC#.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\bin\Debug\net6.0\ref\TrabalhandoComArquivosC#.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\bin\Debug\net6.0\TrabalhandoComArquivosC#.pdb
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.csproj.AssemblyReference.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.AssemblyInfoInputs.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.AssemblyInfo.cs
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.csproj.CoreCompileInputs.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\ref\TrabalhandoComArquivosC#.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.pdb
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\TrabalhandoComArquivosC#\obj\Debug\net6.0\TrabalhandoComArquivosC#.genruntimeconfig.cache
