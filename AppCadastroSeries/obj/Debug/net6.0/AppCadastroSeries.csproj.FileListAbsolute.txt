@@ -1,0 +1,15 @@
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.exe
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.deps.json
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.runtimeconfig.json
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\bin\Debug\net6.0\ref\AppCadastroSeries.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.pdb
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.csproj.AssemblyReference.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.AssemblyInfoInputs.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.AssemblyInfo.cs
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.csproj.CoreCompileInputs.cache
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\ref\AppCadastroSeries.dll
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.pdb
+D:\Voltando a Programar\BootCampGFT\dio-bootcamp-gft-primeiro-repositorio\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.genruntimeconfig.cache
